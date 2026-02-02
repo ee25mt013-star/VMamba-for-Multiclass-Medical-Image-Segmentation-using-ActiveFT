@@ -1,0 +1,19 @@
+torch>=2.1.0
+torchvision>=0.16.0
+timm==0.6.13
+medpy
+scikit-image
+einops
+torchinfo
+fvcore
+iopath
+yacs
+termcolor
+nibabel
+POT
+tqdm
+pandas
+h5py
+matplotlib
+1.first run k=20 subset that is activeft selection percentage
+2.run on k=2,5,10
